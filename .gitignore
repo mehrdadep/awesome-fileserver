@@ -14,7 +14,8 @@ gen
 *.dll
 *.so
 *.dylib
-
+*/upload/*
+upload/*
 # Test binary, built with `go test -c`
 *.test
 
